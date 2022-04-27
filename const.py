@@ -86,8 +86,6 @@ lists = {
         "no meetings.",
         "goats will never need service pack 4.",
         "no ds problems at goatadrive.",
-        "you fuck the goat, he doesn't fuck you and the whole department.",
-        "a goat might bite you in the ass, but he won't fuck you.",
         "fuck y2k.",
         "goats don't ever ask stupid questions.",
         "goats don't drive technology dollars away from your automobile lusts.",
