@@ -115,5 +115,19 @@ lists = {
         "goateng.",
         "macintosh goat users will not make fun of you because your goat is more problematic & complicated than the goat they just bought.",
         "goat farmers who voted for perot have pretty much the same type of goat as everyone else, so they can go back to arguing about politics like they were doing before 1984.",
-        ]
+        ],
+    "internet-slow": [
+        "solar flares",
+        "goat ate the coax",
+        "backhoe brought down us-east-1",
+        "boat anchor broke a cable",
+        "piracy",
+        "someone pressed the big red button",
+        "big ball of wibbly-wobbly timey-wimey stuff",
+        "zayo! zaaaayo, latency come and me wanna go home",
+        "capitalism",
+        "furry convention",
+        "datacenter caught fire again",
+        "everyone restarted their phones at the same time because facebook was down"
+    ]
 }
